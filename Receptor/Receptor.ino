@@ -1,6 +1,7 @@
 #include "heltec.h"
 #define contato 0
 #define BAND 915E6
+//Autor Bernardo
 char st;
 
 char txt;
