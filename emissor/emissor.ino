@@ -2,6 +2,7 @@
 #include "heltec.h"
 #define BAND 915E6
 #define contato 17
+//Autor Bernardo
 char st;
 int contador = 0;
 int estado = 0;
